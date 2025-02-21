@@ -1,6 +1,10 @@
 
 Hello Safi - how are you? .....
 
+<<<<<<< HEAD
 I'm doing fine, thanks! - Safi
 
 no garbage - good code
+=======
+I'm doing fine, thanks! - Safi
+>>>>>>> 5bad12ab7696f92cb5858af3489d2b1630ac18fe
